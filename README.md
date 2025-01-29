@@ -1,1 +1,3 @@
-# 3Q-GFA1
+ - This is a Laboratory Activity on Modules 8.1 - 8.4.
+ - The topics covered in this activity are/is Javascript.
+ - https://github.com/MendradoMCanusaVIII/3Q-GFA1.
